@@ -1,0 +1,6 @@
+aiogram==3.7.0
+aiohttp==3.9.5
+speechrecognition==3.10.4
+pydub==0.25.1
+Pillow==10.3.0
+pytesseract==0.3.10
